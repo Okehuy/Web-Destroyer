@@ -1,4 +1,4 @@
-# Web-Destroyer-DDOS-Python3
+# Web-Destroyer-DDOS-XiuaZ
 Tested working on:
 Windows 7-10
 
