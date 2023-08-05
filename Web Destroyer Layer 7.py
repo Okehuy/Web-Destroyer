@@ -13,7 +13,7 @@ from datetime import datetime
 from threading import Thread
 from time import sleep
 from sys import argv
-tprint("Web Destroyer Layer 7")
+tprint("Web Destroyer Xyuaz")
 try:
         _create_unverified_https_context = ssl._create_unverified_context
 except AttributeError:
